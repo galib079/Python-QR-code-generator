@@ -16,7 +16,7 @@ Features
     
 *   **Error Handling**: Gracefully handles errors such as invalid URLs and missing icon images.
     
-
+## Usage
 1. **Installation**: Clone the repository or download the script directly.
 
 2. **Dependencies**: Ensure you have Python 3.x installed along with the required libraries:
