@@ -3,6 +3,14 @@ Python QR Code Generator with Custom Icon
 
 This Python script generates QR codes with a custom icon embedded in the center, offering a personalized touch to your QR code generation needs. It's a simple yet effective tool for encoding URLs into QR codes and enhancing them with custom icons.
 
+## Example Outputs
+
+### Instagram QR Code
+![Instagram QR Code](results/insta_qr.png)
+
+### Facebook QR Code
+![Facebook QR Code](results/facebook_qr_code.png)
+
 Features
 --------
 
