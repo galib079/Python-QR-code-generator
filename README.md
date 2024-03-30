@@ -17,19 +17,21 @@ Features
 *   **Error Handling**: Gracefully handles errors such as invalid URLs and missing icon images.
     
 
-Usage
------
+1. **Installation**: Clone the repository or download the script directly.
 
-1.  **Installation**: Clone the repository or download the script directly.
-    
-2.  bashCopy codepip install qrcode pillow
-    
-3.  bashCopy codepython qr\_code\_generator.py
-    
-4.  **Customization**: Replace the placeholder URL and icon path with your desired values in the script. Optionally, specify the output file name and the desired size of the icon.
-    
-5.  **Output**: The generated QR code with the custom icon will be saved as specified in the script.
-    
+2. **Dependencies**: Ensure you have Python 3.x installed along with the required libraries:
+    ```bash
+    pip install qrcode pillow
+    ```
+
+3. **Execution**: Run the script with the following command:
+    ```bash
+    python qr_code_generator.py
+    ```
+
+4. **Customization**: Replace the placeholder URL and icon path with your desired values in the script. Optionally, specify the output file name and the desired size of the icon.
+
+5. **Output**: The generated QR code with the custom icon will be saved as specified in the script.
 
 Example
 -------
