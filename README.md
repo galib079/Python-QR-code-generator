@@ -42,7 +42,7 @@ url = "https://www.example.com"
 icon_path = "path/to/your/custom_icon.png"
 
 qr_code_generator.create_qr_with_icon(url, icon_path, output_file="custom_qr_code.png", icon_size=(100, 100))
-'''
+```
 
 Requirements
 ------------
